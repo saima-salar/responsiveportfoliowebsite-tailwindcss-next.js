@@ -4,7 +4,7 @@ import Navbar from './Navbar';
 
 const Hero = () => {
   return (
-    <div id="hero" className=" min-h-screen bg-no-repeat bg-[url(/pic-01.png)] bg-left bg-cover hidden md:block lg:hidden "
+    <div id="hero" className='min-h-screen bg-no-repeat bg-[url(/pic-01.png)] bg-left lg:bg-[15%] bg-cover'
     style={{backgroundSize: "25%", backgroundPosition: "left 100px top 180px "}}
     >
       <Navbar />
