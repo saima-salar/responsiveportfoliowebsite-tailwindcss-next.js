@@ -10,7 +10,7 @@ const Skills = () => {
           I have a solid foundation in web development, specializing in HTML ,
           CSS , JavaScript and TypeScript. My experience extends to using
           frameworks like React and Next.ja to create dynamic and
-          user-friendly application. I'm also proficient in Tailwind CSS for
+          user-friendly application. I am also proficient in Tailwind CSS for
           efficient styling and design. with a passion for learning,I stay
           updated on the latest technologies to enhance my skill set and
           contribute
